@@ -7,7 +7,7 @@ public class Sum
 	    a=sc.nextInt();
 	    b=sc.nextInt();
 	    s=a+b;
-	    System.out.print("sum is: "+s);
+	    System.out.print("sum is:/n "+s);
 		
 	}
 }
