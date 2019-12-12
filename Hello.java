@@ -5,6 +5,6 @@ class Hello {
 	System.out.println("Winter is coming");
 	System.out.println("You know nothing........");
 	System.out.println("The night is dark and full of terrors");
-	System.out.println("Kakashi,the copy ninja");
+	System.out.println("Kakashi,the copy ninja......");
 
     }    }
